@@ -1,4 +1,4 @@
-# Red-FPS-Kryponite
+# Red-FPS-Kryponite License
 
 License:
 
