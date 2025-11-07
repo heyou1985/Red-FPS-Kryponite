@@ -1,0 +1,17 @@
+auto_backup_ultimate.json
+benchmark_*.json
+ultimate_tool_*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+*.bak
+*.tmp
